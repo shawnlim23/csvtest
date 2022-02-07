@@ -1,0 +1,64 @@
+PeopleID,PPLID,First Name,Nickname,Middle Name,Last Name,Salutation,Personal / Formal,Gender,Mother Language,Contact Owner,Comment,UTC Timezone,Position / Title,E-Mail,CompanyID,Company,Connection To Competitor?,E-Mail 2,Phone_mobile,Phone_landline,Other contact,Employee ID,LinkedIn_Personal,LinkedIn_Employee_Overview,Xing,First Contact2,Outreach,Recruiting Notes,"""just read about É""",Outreach_Batch,Own Software?,Outreach_Owner,Content_latestContact,Channel_latestContact,ORID Tags,Domain,Duplicates,Duplicate Finder,Solution Filter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,PPLID1,Andreas,,,Leiniger,,,,,,,,Head of iFab Product Development,,CPY825879,Zimmer Biomet,-,,,,,,https://www.linkedin.com/in/andreas-leiniger-80bb77136/?originalSubdomain=de,,https://www.xing.com/profile/Andreas_Leiniger2,,,,,,,,,,,,1,AndreasLeinigerCPY825879,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,PPLID2,Marco,,,Volkmar,,,,,,,,Head of iFab,,CPY825876,Ottobock,-,,,,,,https://www.linkedin.com/in/marco-volkmar-618928141/?originalSubdomain=de,,,,,,,,,,,,,,1,MarcoVolkmarCPY825876,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,PPLID3,Gary,,,Hicks,,,,,,,,SmartSoc Liaison,,CPY825877,Orthomerica,-,,,,,,https://www.linkedin.com/in/gary-hicks-7157bb188/,,,,,,,,,,,,ORID8251; ORID8252,,1,GaryHicksCPY825877,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,PPLID4,Daniel,,,Souza,,,,,,,,Contact person for CAD/CAM technologies,DSouza@bostonoandp.com,CPY825880,Boston orthotics and prosthetics,-,,,,,,,,,,,,,,,,,,,bostonoandp.com,1,DanielSouzaCPY825880,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,PPLID5,Richard,,,Thomas,,,,,,,,Orthotics Business Development Director,,CPY825881,Steeper,-,,,,,,https://www.linkedin.com/in/richard-thomas-6b71483a/?originalSubdomain=uk,,,,,,,,,,,,,,1,RichardThomasCPY825881,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,PPLID6,Olli,,,McBride,,,,,,,,Software Engineer,,CPY825875,Open bionics,-,,,,,,https://www.linkedin.com/in/ollymcbride/?originalSubdomain=uk,,,,,,,,,,,,,,1,OlliMcBrideCPY825875,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,PPLID7,Samuel L.,,,Femal,,,,,,,,Development Engineer - Patient Matched Implants (PMI),,CPY825879,Zimmer Biomet,-,,,,,,https://www.linkedin.com/in/samuel-l-femal-85b16ba5/,,,,,,,,,,,,,,1,Samuel L.FemalCPY825879,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,PPLID8,Troy,,,Hershberger,,,,,,I am responsible for Global ÒPMIÓ- Patient Matched Implant development and manufacturing business unit which creates custom patient specific implants utilizing patient imaging data to address difficult orthopedic cases around the globe.,,Sr Director Patient Matched Products,,CPY825879,Zimmer Biomet,-,,,,,,https://www.linkedin.com/in/troy-hershberger-23977b32/,,,8/7/19,,,,,,,,,,,1,TroyHershbergerCPY825879,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,PPLID9,Christian,,,Popp,,,,,,,,Head of Product Management bei Bauerfeind SPORTS,,CPY825878,Bauerfeind,-,,,,,,https://www.linkedin.com/in/cmp1984/,,,8/7/19,,,,,,,,,,,1,ChristianPoppCPY825878,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,PPLID10,Andreas,,,Lauth,,,,,,,,Vorstand Technik,,CPY825878,Bauerfeind,-,,,,,,https://www.linkedin.com/in/andreas-lauth-75063546/?originalSubdomain=de,,,,,,,,,,,,,,1,AndreasLauthCPY825878,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,PPLID11,Philipp,,,Schulte-Noelle,,,,,,,,CEO/CFO,,CPY825876,Ottobock,-,,,,,,https://www.linkedin.com/in/philipp-schulte-noelle-b18847/?originalSubdomain=de,,,8/7/19,,,,,,,,,,,1,PhilippSchulte-NoelleCPY825876,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,PPLID12,Arne,,,Jšrn,,,,,,,,COO,,CPY825876,Ottobock,-,,,,,,https://www.linkedin.com/in/arne-j%C3%B6rn-197b7523/?originalSubdomain=de,,,,,,,,,,,,,,1,ArneJšrnCPY825876,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,PPLID13,Thomas,,,Benz,,,,,,,,Constructor,,CPY825879,Zimmer Biomet,-,,,,,,https://www.linkedin.com/in/thomas-benz-22a0b441/?originalSubdomain=ch,,,,,,,,,,,,,,1,ThomasBenzCPY825879,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,PPLID14,Joel,,,Gibbard,,,,,,,,CEO,,CPY825875,Open bionics,-,,,,,,https://www.linkedin.com/in/joel-gibbard-10072a54/,,,8/7/19,,,,,,,,,,,1,JoelGibbardCPY825875,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,PPLID15,Jessica,,,Herrick,,,,,,,,Configuration Engineer Lead,jessica@openbionics.com (or jessicaherrick@openbionics.com),CPY825875,Open bionics,-,,,,,,https://www.linkedin.com/in/jessica-herrick-5128bb128/,,,17/7/19,,,,,,,,Mail,,openbionics.com (or jessicaherrick@openbionics.com),1,JessicaHerrickCPY825875,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,PPLID16,Stephen,,,Reardon,,,,,,,,CFO,,CPY825880,Boston orthotics and prosthetics,-,,,,,,https://www.linkedin.com/in/stephenreardon/,,,,,,,,,,,,,,1,StephenReardonCPY825880,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,PPLID17,Mariel,,,Diaz,,,Female,,,,,CEO,,CPY825711,TRIDITIVE S.L.,-,,,,,,https://www.linkedin.com/in/marieldiazcastro/,https://www.linkedin.com/company/triditive/people/,,10/7/19,100% FDM | Outreach English,,AMCell 3D Printer,,EVAM Software,,,,,,1,MarielDiazCPY825711,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,PPLID18,John,,,Healey,,,,,,,,COO,,CPY825880,Boston orthotics and prosthetics,-,,,,,,https://www.linkedin.com/in/john-healey-01065546/,,,8/7/19,,,,,,,,,,,1,JohnHealeyCPY825880,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,PPLID19,Sergio,,,Mart,,,Male,,,,,CTO,,CPY825711,TRIDITIVE S.L.,-,,,,,,https://www.linkedin.com/in/samart/,https://www.linkedin.com/company/triditive/people/,,,100% FDM | Outreach English,,AMCell 3D Printer,,EVAM Software,,,,,,1,SergioMartCPY825711,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,PPLID20,Markus,,,Solibieda,,,,,,†ber BASF versuchen an PrismLab (ID: 111) zu kommen ,,Managing Director,,CPY825891,BASF Venture Capital GmbH,-,,,,,,https://www.linkedin.com/in/markus-solibieda-b0339b19/?originalSubdomain=de,,,10/7/19,,,,,,,,,,,1,MarkusSolibiedaCPY825891,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,PPLID21,Tedd,,,Syao,,Personal,Male,English ,Markus Finke,Kudo3D hat auch einen Personenaccount: https://www.linkedin.com/in/kudo3d-inc-32340711a/,,President,teddsyao@kudo3d,CPY825888,Kudo3D,-,contact@kudo3d.com,,,,,https://www.linkedin.com/in/tedd-syao/,https://www.linkedin.com/company/kudo3d/people/,,10/7/19,100% SLA | Outreach English,,,4 - SLA - have own software,Yes,Sherman,,,,kudo3d,1,TeddSyaoCPY825888,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,PPLID22,Gregory,,,Mark,,,,,,,,CEO,,CPY82585,Markforged Inc.,-,,,,,,https://www.linkedin.com/in/gregory-mark-0353354/?locale=de_DE,https://www.linkedin.com/company/markforged/people/,,10/7/19,100% FDM | Outreach English,,,,"Eiger, Blacksmith",,,,,,1,GregoryMarkCPY82585,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,PPLID23,Jim,,,Reitz,,,,,,"Kontaktanfrage pending -> versuchen, E-Mail rauszubkommen.",,General Manager,,CPY825152,Shanghai Union Technology Corporation,-,,,,,,https://www.linkedin.com/in/jim-reitz-106b717/,,,10/7/19,100% SLA | Outreach Chinese + English,,,1 - have SLA Printer >50l - no software,No - Materialise Magic,,,,,,1,JimReitzCPY825152,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,PPLID24,Jack,,,Liu,,,,,,,,BD Manager,,CPY825428,UNIZ TECHNOLOGY LLC.,-,,,,,,https://www.linkedin.com/in/jack-liu-aa96a4127/,linkedin.com/company/uniz-technology-llc/people/,,10/7/19,100% SLA | Outreach Chinese + English,,Slash 2,2 - have SLA Printer >50l - own software,Uniz Software,,"Dear Uniz Team, 
+We heard some positive feedback about your printers. For our partners we are looking for large scale resin printers to mass manufacture complex objects.
+I came across your ZSLTV-23. Would you be interested in working with us to test out a workflow for this printer?
+Kind regards,
+Markus",,,,1,JackLiuCPY825428,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,PPLID25,Maurizio,,,Costabeber,,,,,,E-Mail schreiben,,CTO,maurizio.costabeber@dwssystems.com,CPY82549,DWS S.r.l. (Digital Wax System),-,,0039 445 810 810,,,,https://www.linkedin.com/in/maurizio-costabeber-62313a1b/?locale=de_DE,,,14/7/19,100% SLA | Outreach English,,,2 - have SLA Printer >50l - own software,Yes,,,Mail,,dwssystems.com,1,MaurizioCostabeberCPY82549,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,PPLID26,Feel,,,Lao,,,,,,Nochmal Mail-Adresse suchen,,CEO,"Nicht korrekt: 
+- feellao@longer3d.com
+- lao@longer3d.com
+- laofeel@longer3d.com
+- feel@longer3d.com
+
+Alternative Leakingy Liu: 
+- leakingyliu@longer3d.com
+- https://www.facebook.com/leakingy.liu
+- https://www.facebook.com/longer3Dprinting/
+
+- Sales@longer3d.com
+- support@longer3d.com",CPY825884,Longer3D,-,, ,,,,,,,,100% SLA + FDM | Outreach Chinese + English (Lowpriority),,,,Yes,Sherman,,,,"longer3d.com
+- lao@longer3d.com
+- laofeel@longer3d.com
+- feel@longer3d.com
+
+Alternative Leakingy Liu: 
+- leakingyliu@longer3d.com
+- https://www.facebook.com/leakingy.liu
+- https://www.facebook.com/longer3Dprinting/
+
+- Sales@longer3d.com
+- support@longer3d.com",1,FeelLaoCPY825884,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,PPLID27,Steve,,,Moran,,,,,,"Markus: ""Bei RPS bin ich gerade mit nem Sales Menschen am connecten. Wenn der nicht antwortet schreiben wir die mail ende der Woche""",,Director,"@rps.ltd
+Why not Peter Hansford (Global Sales Director) on  LinkedIn?",CPY825883,RP SUPPORT LIMITED,-,,,,,,https://www.linkedin.com/in/steve-moran-a6205b8/,,,26/7/19,100% SLA + FDM | Outreach English,,,,No (Materialise),,,,,"rps.ltd
+Why not Peter Hansford (Global Sales Director) on  LinkedIn?",1,SteveMoranCPY825883,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,PPLID28,Li,,,Tao,,,,,,,,CEO,litao@shining3d.com,CPY825651,"Shining 3D Tech Co., Ltd",-,,,,,,,,,17/7/19,100% SLA + FDM | Outreach Chinese + English,,,,,,,Mail,,shining3d.com,1,LiTaoCPY825651,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,PPLID29,Fabio,,,Esposito,,,,,,,,CEO,,CPY825895,Luxexcel,-,,,,,,https://www.linkedin.com/in/fabioesposito/,,,17/7/19,,,,,Yes,,,,,,1,FabioEspositoCPY825895,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,PPLID30,Felipe,,,Buzinskas,,,,,,,,CEO,,CPY825896,3D Procer,-,,,,,,https://www.linkedin.com/in/felipe-buzinskas-a16586a1/,,,17/7/19,,,Precision 3D Printer,,No - Simplify3D and Photocentric Studio (resin printer software),,waiting for his email - then meeting,,,,1,FelipeBuzinskasCPY825896,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,PPLID31,Daniel,,,Huamani,,,,,,CTO at 3D Criar and 3DC Med,,CTO,,CPY825902,3D Criar,-,,,,,,https://www.linkedin.com/in/danielhuamani/,,,,,,,,Yes,,,,,,1,DanielHuamaniCPY825902,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,PPLID32,Daniel,,,Huamani,,,,,,CTO at 3D Criar and 3DC Med,,CTO,,CPY825903,3DC Med,-,,,,,,https://www.linkedin.com/in/danielhuamani/,,,,100% SLA | Outreach English,,,,,,,,,,1,DanielHuamaniCPY825903,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,PPLID33,Arthur,,,Greyf,,,,,,,,CEO,,CPY825904,Osseoprint 3D,-,,,,,,https://www.linkedin.com/in/arthur-greyf-dds-ficoi-1b1aba49/,,,17/7/19,,,,,,,,,,,1,ArthurGreyfCPY825904,Print Solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,PPLID34,Erik,,,Paul,,Personal,Male,English ,Markus Finke,Coldcall? 808-651-1562,,CEO,erik@exiom.com,CPY825905,Exiom,-,,,,,,https://www.linkedin.com/in/exiomcasts/,,,17/7/19,,,,,,,,,,exiom.com,1,ErikPaulCPY825905,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
